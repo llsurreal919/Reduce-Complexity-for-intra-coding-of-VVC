@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\VTM_Fast\VVCSoftware_VTM-VTM-6.1\source\App\DecoderApp\DecApp.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\VTM_Fast\VVCSoftware_VTM-VTM-6.1\source\App\DecoderApp\DecAppCfg.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\VTM_Fast\VVCSoftware_VTM-VTM-6.1\source\App\DecoderApp\decmain.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="D:\VTM_Fast\VVCSoftware_VTM-VTM-6.1\source\App\DecoderApp\DecApp.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\VTM_Fast\VVCSoftware_VTM-VTM-6.1\source\App\DecoderApp\DecAppCfg.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\VTM_Fast\VVCSoftware_VTM-VTM-6.1\source\App\DecoderAnalyserApp\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Natvis Include="D:\VTM_Fast\VVCSoftware_VTM-VTM-6.1\source\VisualStudio\common.natvis">
+      <Filter>Natvis Files</Filter>
+    </Natvis>
+    <Natvis Include="D:\VTM_Fast\VVCSoftware_VTM-VTM-6.1\source\VisualStudio\static_vector.natvis">
+      <Filter>Natvis Files</Filter>
+    </Natvis>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{3160DE98-B118-3C1B-A3DC-CD20CA7934AA}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Natvis Files">
+      <UniqueIdentifier>{21EB0D93-D801-3874-B443-78998E226F63}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{E36C6A67-6EE2-3F94-918B-9935C7A5C8D3}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

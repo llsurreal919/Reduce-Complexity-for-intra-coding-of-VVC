@@ -1,0 +1,158 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\VTM_Fast\VVCSoftware_VTM-VTM-6.1\source\Lib\EncoderLib\AQp.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\VTM_Fast\VVCSoftware_VTM-VTM-6.1\source\Lib\EncoderLib\BinEncoder.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\VTM_Fast\VVCSoftware_VTM-VTM-6.1\source\Lib\EncoderLib\CABACWriter.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\VTM_Fast\VVCSoftware_VTM-VTM-6.1\source\Lib\EncoderLib\EncAdaptiveLoopFilter.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\VTM_Fast\VVCSoftware_VTM-VTM-6.1\source\Lib\EncoderLib\EncCu.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\VTM_Fast\VVCSoftware_VTM-VTM-6.1\source\Lib\EncoderLib\EncGOP.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\VTM_Fast\VVCSoftware_VTM-VTM-6.1\source\Lib\EncoderLib\EncHRD.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\VTM_Fast\VVCSoftware_VTM-VTM-6.1\source\Lib\EncoderLib\EncLib.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\VTM_Fast\VVCSoftware_VTM-VTM-6.1\source\Lib\EncoderLib\EncModeCtrl.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\VTM_Fast\VVCSoftware_VTM-VTM-6.1\source\Lib\EncoderLib\EncReshape.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\VTM_Fast\VVCSoftware_VTM-VTM-6.1\source\Lib\EncoderLib\EncSampleAdaptiveOffset.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\VTM_Fast\VVCSoftware_VTM-VTM-6.1\source\Lib\EncoderLib\EncSlice.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\VTM_Fast\VVCSoftware_VTM-VTM-6.1\source\Lib\EncoderLib\InterSearch.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\VTM_Fast\VVCSoftware_VTM-VTM-6.1\source\Lib\EncoderLib\IntraSearch.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\VTM_Fast\VVCSoftware_VTM-VTM-6.1\source\Lib\EncoderLib\NALwrite.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\VTM_Fast\VVCSoftware_VTM-VTM-6.1\source\Lib\EncoderLib\RateCtrl.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\VTM_Fast\VVCSoftware_VTM-VTM-6.1\source\Lib\EncoderLib\SEIEncoder.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\VTM_Fast\VVCSoftware_VTM-VTM-6.1\source\Lib\EncoderLib\SEIwrite.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\VTM_Fast\VVCSoftware_VTM-VTM-6.1\source\Lib\EncoderLib\VLCWriter.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\VTM_Fast\VVCSoftware_VTM-VTM-6.1\source\Lib\EncoderLib\WeightPredAnalysis.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="D:\VTM_Fast\VVCSoftware_VTM-VTM-6.1\source\Lib\EncoderLib\AQp.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\VTM_Fast\VVCSoftware_VTM-VTM-6.1\source\Lib\EncoderLib\Analyze.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\VTM_Fast\VVCSoftware_VTM-VTM-6.1\source\Lib\EncoderLib\AnnexBwrite.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\VTM_Fast\VVCSoftware_VTM-VTM-6.1\source\Lib\EncoderLib\BinEncoder.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\VTM_Fast\VVCSoftware_VTM-VTM-6.1\source\Lib\EncoderLib\CABACWriter.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\VTM_Fast\VVCSoftware_VTM-VTM-6.1\source\Lib\EncoderLib\EncAdaptiveLoopFilter.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\VTM_Fast\VVCSoftware_VTM-VTM-6.1\source\Lib\EncoderLib\EncCfg.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\VTM_Fast\VVCSoftware_VTM-VTM-6.1\source\Lib\EncoderLib\EncCu.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\VTM_Fast\VVCSoftware_VTM-VTM-6.1\source\Lib\EncoderLib\EncGOP.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\VTM_Fast\VVCSoftware_VTM-VTM-6.1\source\Lib\EncoderLib\EncHRD.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\VTM_Fast\VVCSoftware_VTM-VTM-6.1\source\Lib\EncoderLib\EncLib.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\VTM_Fast\VVCSoftware_VTM-VTM-6.1\source\Lib\EncoderLib\EncModeCtrl.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\VTM_Fast\VVCSoftware_VTM-VTM-6.1\source\Lib\EncoderLib\EncReshape.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\VTM_Fast\VVCSoftware_VTM-VTM-6.1\source\Lib\EncoderLib\EncSampleAdaptiveOffset.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\VTM_Fast\VVCSoftware_VTM-VTM-6.1\source\Lib\EncoderLib\EncSlice.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\VTM_Fast\VVCSoftware_VTM-VTM-6.1\source\Lib\EncoderLib\InterSearch.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\VTM_Fast\VVCSoftware_VTM-VTM-6.1\source\Lib\EncoderLib\IntraSearch.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\VTM_Fast\VVCSoftware_VTM-VTM-6.1\source\Lib\EncoderLib\NALwrite.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\VTM_Fast\VVCSoftware_VTM-VTM-6.1\source\Lib\EncoderLib\RateCtrl.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\VTM_Fast\VVCSoftware_VTM-VTM-6.1\source\Lib\EncoderLib\SEIEncoder.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\VTM_Fast\VVCSoftware_VTM-VTM-6.1\source\Lib\EncoderLib\SEIwrite.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\VTM_Fast\VVCSoftware_VTM-VTM-6.1\source\Lib\EncoderLib\VLCWriter.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\VTM_Fast\VVCSoftware_VTM-VTM-6.1\source\Lib\EncoderLib\WeightPredAnalysis.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\VTM_Fast\VVCSoftware_VTM-VTM-6.1\source\Lib\EncoderLib\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Natvis Include="D:\VTM_Fast\VVCSoftware_VTM-VTM-6.1\source\VisualStudio\common.natvis">
+      <Filter>Natvis Files</Filter>
+    </Natvis>
+    <Natvis Include="D:\VTM_Fast\VVCSoftware_VTM-VTM-6.1\source\VisualStudio\static_vector.natvis">
+      <Filter>Natvis Files</Filter>
+    </Natvis>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{3160DE98-B118-3C1B-A3DC-CD20CA7934AA}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Natvis Files">
+      <UniqueIdentifier>{21EB0D93-D801-3874-B443-78998E226F63}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{E36C6A67-6EE2-3F94-918B-9935C7A5C8D3}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

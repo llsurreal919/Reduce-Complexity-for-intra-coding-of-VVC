@@ -1,0 +1,392 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\VTM_Fast\VVCSoftware_VTM-VTM-6.1\source\Lib\CommonLib\AdaptiveLoopFilter.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\VTM_Fast\VVCSoftware_VTM-VTM-6.1\source\Lib\CommonLib\AffineGradientSearch.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\VTM_Fast\VVCSoftware_VTM-VTM-6.1\source\Lib\CommonLib\BitStream.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\VTM_Fast\VVCSoftware_VTM-VTM-6.1\source\Lib\CommonLib\Buffer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\VTM_Fast\VVCSoftware_VTM-VTM-6.1\source\Lib\CommonLib\CacheModel.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\VTM_Fast\VVCSoftware_VTM-VTM-6.1\source\Lib\CommonLib\ChromaFormat.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\VTM_Fast\VVCSoftware_VTM-VTM-6.1\source\Lib\CommonLib\CodingStructure.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\VTM_Fast\VVCSoftware_VTM-VTM-6.1\source\Lib\CommonLib\ContextModelling.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\VTM_Fast\VVCSoftware_VTM-VTM-6.1\source\Lib\CommonLib\Contexts.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\VTM_Fast\VVCSoftware_VTM-VTM-6.1\source\Lib\CommonLib\CrossCompPrediction.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\VTM_Fast\VVCSoftware_VTM-VTM-6.1\source\Lib\CommonLib\DepQuant.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\VTM_Fast\VVCSoftware_VTM-VTM-6.1\source\Lib\CommonLib\HRD.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\VTM_Fast\VVCSoftware_VTM-VTM-6.1\source\Lib\CommonLib\Hash.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\VTM_Fast\VVCSoftware_VTM-VTM-6.1\source\Lib\CommonLib\IbcHashMap.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\VTM_Fast\VVCSoftware_VTM-VTM-6.1\source\Lib\CommonLib\InterPrediction.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\VTM_Fast\VVCSoftware_VTM-VTM-6.1\source\Lib\CommonLib\InterpolationFilter.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\VTM_Fast\VVCSoftware_VTM-VTM-6.1\source\Lib\CommonLib\IntraPrediction.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\VTM_Fast\VVCSoftware_VTM-VTM-6.1\source\Lib\CommonLib\LoopFilter.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\VTM_Fast\VVCSoftware_VTM-VTM-6.1\source\Lib\CommonLib\MCTS.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\VTM_Fast\VVCSoftware_VTM-VTM-6.1\source\Lib\CommonLib\MatrixIntraPrediction.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\VTM_Fast\VVCSoftware_VTM-VTM-6.1\source\Lib\CommonLib\Mv.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\VTM_Fast\VVCSoftware_VTM-VTM-6.1\source\Lib\CommonLib\PicYuvMD5.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\VTM_Fast\VVCSoftware_VTM-VTM-6.1\source\Lib\CommonLib\Picture.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\VTM_Fast\VVCSoftware_VTM-VTM-6.1\source\Lib\CommonLib\Quant.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\VTM_Fast\VVCSoftware_VTM-VTM-6.1\source\Lib\CommonLib\QuantRDOQ.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\VTM_Fast\VVCSoftware_VTM-VTM-6.1\source\Lib\CommonLib\RdCost.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\VTM_Fast\VVCSoftware_VTM-VTM-6.1\source\Lib\CommonLib\RdCostWeightPrediction.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\VTM_Fast\VVCSoftware_VTM-VTM-6.1\source\Lib\CommonLib\Reshape.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\VTM_Fast\VVCSoftware_VTM-VTM-6.1\source\Lib\CommonLib\Rom.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\VTM_Fast\VVCSoftware_VTM-VTM-6.1\source\Lib\CommonLib\RomLFNST.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\VTM_Fast\VVCSoftware_VTM-VTM-6.1\source\Lib\CommonLib\RomTr.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\VTM_Fast\VVCSoftware_VTM-VTM-6.1\source\Lib\CommonLib\SEI.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\VTM_Fast\VVCSoftware_VTM-VTM-6.1\source\Lib\CommonLib\SampleAdaptiveOffset.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\VTM_Fast\VVCSoftware_VTM-VTM-6.1\source\Lib\CommonLib\Slice.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\VTM_Fast\VVCSoftware_VTM-VTM-6.1\source\Lib\CommonLib\TrQuant.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\VTM_Fast\VVCSoftware_VTM-VTM-6.1\source\Lib\CommonLib\TrQuant_EMT.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\VTM_Fast\VVCSoftware_VTM-VTM-6.1\source\Lib\CommonLib\Unit.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\VTM_Fast\VVCSoftware_VTM-VTM-6.1\source\Lib\CommonLib\UnitPartitioner.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\VTM_Fast\VVCSoftware_VTM-VTM-6.1\source\Lib\CommonLib\UnitTools.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\VTM_Fast\VVCSoftware_VTM-VTM-6.1\source\Lib\CommonLib\WeightPrediction.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\VTM_Fast\VVCSoftware_VTM-VTM-6.1\source\Lib\CommonLib\dtrace.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\VTM_Fast\VVCSoftware_VTM-VTM-6.1\source\Lib\CommonLib\dtrace_blockstatistics.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\VTM_Fast\VVCSoftware_VTM-VTM-6.1\source\Lib\CommonLib\x86\CommonDefX86.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\VTM_Fast\VVCSoftware_VTM-VTM-6.1\source\Lib\CommonLib\x86\InitX86.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\VTM_Fast\VVCSoftware_VTM-VTM-6.1\source\Lib\CommonLib\x86\sse41\AdaptiveLoopFilter_sse41.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\VTM_Fast\VVCSoftware_VTM-VTM-6.1\source\Lib\CommonLib\x86\sse41\AffineGradientSearch_sse41.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\VTM_Fast\VVCSoftware_VTM-VTM-6.1\source\Lib\CommonLib\x86\sse41\Buffer_sse41.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\VTM_Fast\VVCSoftware_VTM-VTM-6.1\source\Lib\CommonLib\x86\sse41\InterpolationFilter_sse41.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\VTM_Fast\VVCSoftware_VTM-VTM-6.1\source\Lib\CommonLib\x86\sse41\RdCost_sse41.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\VTM_Fast\VVCSoftware_VTM-VTM-6.1\source\Lib\CommonLib\x86\sse42\IbcHashmap_sse42.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\VTM_Fast\VVCSoftware_VTM-VTM-6.1\source\Lib\CommonLib\x86\avx\AdaptiveLoopFilter_avx.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\VTM_Fast\VVCSoftware_VTM-VTM-6.1\source\Lib\CommonLib\x86\avx\AffineGradientSearch_avx.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\VTM_Fast\VVCSoftware_VTM-VTM-6.1\source\Lib\CommonLib\x86\avx\Buffer_avx.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\VTM_Fast\VVCSoftware_VTM-VTM-6.1\source\Lib\CommonLib\x86\avx\InterpolationFilter_avx.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\VTM_Fast\VVCSoftware_VTM-VTM-6.1\source\Lib\CommonLib\x86\avx\RdCost_avx.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\VTM_Fast\VVCSoftware_VTM-VTM-6.1\source\Lib\CommonLib\x86\avx2\AdaptiveLoopFilter_avx2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\VTM_Fast\VVCSoftware_VTM-VTM-6.1\source\Lib\CommonLib\x86\avx2\AffineGradientSearch_avx2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\VTM_Fast\VVCSoftware_VTM-VTM-6.1\source\Lib\CommonLib\x86\avx2\Buffer_avx2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\VTM_Fast\VVCSoftware_VTM-VTM-6.1\source\Lib\CommonLib\x86\avx2\InterpolationFilter_avx2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\VTM_Fast\VVCSoftware_VTM-VTM-6.1\source\Lib\CommonLib\x86\avx2\RdCost_avx2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\VTM_Fast\VVCSoftware_VTM-VTM-6.1\source\Lib\libmd5\libmd5.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="D:\VTM_Fast\VVCSoftware_VTM-VTM-6.1\source\Lib\CommonLib\AdaptiveLoopFilter.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\VTM_Fast\VVCSoftware_VTM-VTM-6.1\source\Lib\CommonLib\AffineGradientSearch.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\VTM_Fast\VVCSoftware_VTM-VTM-6.1\source\Lib\CommonLib\AlfParameters.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\VTM_Fast\VVCSoftware_VTM-VTM-6.1\source\Lib\CommonLib\BitStream.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\VTM_Fast\VVCSoftware_VTM-VTM-6.1\source\Lib\CommonLib\Buffer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\VTM_Fast\VVCSoftware_VTM-VTM-6.1\source\Lib\CommonLib\CacheModel.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\VTM_Fast\VVCSoftware_VTM-VTM-6.1\source\Lib\CommonLib\ChromaFormat.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\VTM_Fast\VVCSoftware_VTM-VTM-6.1\source\Lib\CommonLib\CodingStatistics.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\VTM_Fast\VVCSoftware_VTM-VTM-6.1\source\Lib\CommonLib\CodingStructure.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\VTM_Fast\VVCSoftware_VTM-VTM-6.1\source\Lib\CommonLib\Common.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\VTM_Fast\VVCSoftware_VTM-VTM-6.1\source\Lib\CommonLib\CommonDef.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\VTM_Fast\VVCSoftware_VTM-VTM-6.1\source\Lib\CommonLib\ContextModelling.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\VTM_Fast\VVCSoftware_VTM-VTM-6.1\source\Lib\CommonLib\Contexts.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\VTM_Fast\VVCSoftware_VTM-VTM-6.1\source\Lib\CommonLib\CrossCompPrediction.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\VTM_Fast\VVCSoftware_VTM-VTM-6.1\source\Lib\CommonLib\DepQuant.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\VTM_Fast\VVCSoftware_VTM-VTM-6.1\source\Lib\CommonLib\HRD.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\VTM_Fast\VVCSoftware_VTM-VTM-6.1\source\Lib\CommonLib\Hash.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\VTM_Fast\VVCSoftware_VTM-VTM-6.1\source\Lib\CommonLib\IbcHashMap.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\VTM_Fast\VVCSoftware_VTM-VTM-6.1\source\Lib\CommonLib\InterPrediction.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\VTM_Fast\VVCSoftware_VTM-VTM-6.1\source\Lib\CommonLib\InterpolationFilter.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\VTM_Fast\VVCSoftware_VTM-VTM-6.1\source\Lib\CommonLib\IntraPrediction.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\VTM_Fast\VVCSoftware_VTM-VTM-6.1\source\Lib\CommonLib\LoopFilter.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\VTM_Fast\VVCSoftware_VTM-VTM-6.1\source\Lib\CommonLib\MCTS.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\VTM_Fast\VVCSoftware_VTM-VTM-6.1\source\Lib\CommonLib\MatrixIntraPrediction.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\VTM_Fast\VVCSoftware_VTM-VTM-6.1\source\Lib\CommonLib\MipData.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\VTM_Fast\VVCSoftware_VTM-VTM-6.1\source\Lib\CommonLib\MotionInfo.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\VTM_Fast\VVCSoftware_VTM-VTM-6.1\source\Lib\CommonLib\Mv.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\VTM_Fast\VVCSoftware_VTM-VTM-6.1\source\Lib\CommonLib\NAL.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\VTM_Fast\VVCSoftware_VTM-VTM-6.1\source\Lib\CommonLib\Picture.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\VTM_Fast\VVCSoftware_VTM-VTM-6.1\source\Lib\CommonLib\Quant.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\VTM_Fast\VVCSoftware_VTM-VTM-6.1\source\Lib\CommonLib\QuantRDOQ.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\VTM_Fast\VVCSoftware_VTM-VTM-6.1\source\Lib\CommonLib\RdCost.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\VTM_Fast\VVCSoftware_VTM-VTM-6.1\source\Lib\CommonLib\RdCostWeightPrediction.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\VTM_Fast\VVCSoftware_VTM-VTM-6.1\source\Lib\CommonLib\Reshape.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\VTM_Fast\VVCSoftware_VTM-VTM-6.1\source\Lib\CommonLib\Rom.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\VTM_Fast\VVCSoftware_VTM-VTM-6.1\source\Lib\CommonLib\SEI.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\VTM_Fast\VVCSoftware_VTM-VTM-6.1\source\Lib\CommonLib\SampleAdaptiveOffset.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\VTM_Fast\VVCSoftware_VTM-VTM-6.1\source\Lib\CommonLib\Slice.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\VTM_Fast\VVCSoftware_VTM-VTM-6.1\source\Lib\CommonLib\TrQuant.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\VTM_Fast\VVCSoftware_VTM-VTM-6.1\source\Lib\CommonLib\TrQuant_EMT.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\VTM_Fast\VVCSoftware_VTM-VTM-6.1\source\Lib\CommonLib\TypeDef.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\VTM_Fast\VVCSoftware_VTM-VTM-6.1\source\Lib\CommonLib\Unit.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\VTM_Fast\VVCSoftware_VTM-VTM-6.1\source\Lib\CommonLib\UnitPartitioner.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\VTM_Fast\VVCSoftware_VTM-VTM-6.1\source\Lib\CommonLib\UnitTools.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\VTM_Fast\VVCSoftware_VTM-VTM-6.1\source\Lib\CommonLib\WeightPrediction.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\VTM_Fast\VVCSoftware_VTM-VTM-6.1\source\Lib\CommonLib\dtrace.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\VTM_Fast\VVCSoftware_VTM-VTM-6.1\source\Lib\CommonLib\dtrace_blockstatistics.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\VTM_Fast\VVCSoftware_VTM-VTM-6.1\source\Lib\CommonLib\dtrace_buffer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\VTM_Fast\VVCSoftware_VTM-VTM-6.1\source\Lib\CommonLib\dtrace_codingstruct.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\VTM_Fast\VVCSoftware_VTM-VTM-6.1\source\Lib\CommonLib\dtrace_next.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\VTM_Fast\VVCSoftware_VTM-VTM-6.1\source\Lib\CommonLib\version.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\VTM_Fast\VVCSoftware_VTM-VTM-6.1\source\Lib\CommonLib\x86\AdaptiveLoopFilterX86.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\VTM_Fast\VVCSoftware_VTM-VTM-6.1\source\Lib\CommonLib\x86\AffineGradientSearchX86.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\VTM_Fast\VVCSoftware_VTM-VTM-6.1\source\Lib\CommonLib\x86\BufferX86.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\VTM_Fast\VVCSoftware_VTM-VTM-6.1\source\Lib\CommonLib\x86\CommonDefX86.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\VTM_Fast\VVCSoftware_VTM-VTM-6.1\source\Lib\CommonLib\x86\IbcHashMapX86.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\VTM_Fast\VVCSoftware_VTM-VTM-6.1\source\Lib\CommonLib\x86\InterpolationFilterX86.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\VTM_Fast\VVCSoftware_VTM-VTM-6.1\source\Lib\CommonLib\x86\RdCostX86.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\VTM_Fast\VVCSoftware_VTM-VTM-6.1\source\Lib\libmd5\MD5.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\VTM_Fast\VVCSoftware_VTM-VTM-6.1\source\Lib\libmd5\libmd5.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\VTM_Fast\VVCSoftware_VTM-VTM-6.1\source\Lib\CommonAnalyserLib\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Natvis Include="D:\VTM_Fast\VVCSoftware_VTM-VTM-6.1\source\VisualStudio\common.natvis">
+      <Filter>Natvis Files</Filter>
+    </Natvis>
+    <Natvis Include="D:\VTM_Fast\VVCSoftware_VTM-VTM-6.1\source\VisualStudio\static_vector.natvis">
+      <Filter>Natvis Files</Filter>
+    </Natvis>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{3160DE98-B118-3C1B-A3DC-CD20CA7934AA}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Natvis Files">
+      <UniqueIdentifier>{21EB0D93-D801-3874-B443-78998E226F63}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{E36C6A67-6EE2-3F94-918B-9935C7A5C8D3}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

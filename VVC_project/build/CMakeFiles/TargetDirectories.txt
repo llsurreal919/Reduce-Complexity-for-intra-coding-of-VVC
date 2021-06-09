@@ -1,0 +1,14 @@
+D:/VTM_Fast/VVCSoftware_VTM-VTM-6.1/build/CMakeFiles/ALL_BUILD.dir
+D:/VTM_Fast/VVCSoftware_VTM-VTM-6.1/build/CMakeFiles/ZERO_CHECK.dir
+D:/VTM_Fast/VVCSoftware_VTM-VTM-6.1/build/source/Lib/CommonLib/CMakeFiles/CommonLib.dir
+D:/VTM_Fast/VVCSoftware_VTM-VTM-6.1/build/source/Lib/CommonAnalyserLib/CMakeFiles/CommonAnalyserLib.dir
+D:/VTM_Fast/VVCSoftware_VTM-VTM-6.1/build/source/Lib/DecoderAnalyserLib/CMakeFiles/DecoderAnalyserLib.dir
+D:/VTM_Fast/VVCSoftware_VTM-VTM-6.1/build/source/Lib/DecoderLib/CMakeFiles/DecoderLib.dir
+D:/VTM_Fast/VVCSoftware_VTM-VTM-6.1/build/source/Lib/EncoderLib/CMakeFiles/EncoderLib.dir
+D:/VTM_Fast/VVCSoftware_VTM-VTM-6.1/build/source/Lib/Utilities/CMakeFiles/Utilities.dir
+D:/VTM_Fast/VVCSoftware_VTM-VTM-6.1/build/source/App/DecoderAnalyserApp/CMakeFiles/DecoderAnalyserApp.dir
+D:/VTM_Fast/VVCSoftware_VTM-VTM-6.1/build/source/App/DecoderApp/CMakeFiles/DecoderApp.dir
+D:/VTM_Fast/VVCSoftware_VTM-VTM-6.1/build/source/App/EncoderApp/CMakeFiles/EncoderApp.dir
+D:/VTM_Fast/VVCSoftware_VTM-VTM-6.1/build/source/App/SEIRemovalApp/CMakeFiles/SEIRemovalApp.dir
+D:/VTM_Fast/VVCSoftware_VTM-VTM-6.1/build/source/App/Parcat/CMakeFiles/parcat.dir
+D:/VTM_Fast/VVCSoftware_VTM-VTM-6.1/build/source/App/StreamMergeApp/CMakeFiles/StreamMergeApp.dir
